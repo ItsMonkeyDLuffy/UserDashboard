@@ -1,16 +1,21 @@
-# firstapp
+# 🖥️ User Dashboard
 
-A new Flutter project.
+A modern and responsive **User Dashboard UI** built with **Flutter**.  
+This project replicates a given dashboard design with my own improvements and custom tweaks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Clean, structured Flutter codebase
+- Responsive layout for different screen sizes
+- Reusable widgets for scalability
+- Simple yet elegant UI styling
+- Follows best practices for Flutter project organization
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Framework:** Flutter
+- **Language:** Dart
