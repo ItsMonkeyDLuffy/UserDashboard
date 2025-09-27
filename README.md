@@ -51,6 +51,8 @@ This project replicates a given dashboard design with my own improvements and cu
 ## 📸 Screenshots
 
 <p float="left">
-
-  <img src="firstapp/assets/screenshots/Screenshot 2025-09-27 at 11.09.21 AM.png" alt="Login Screen" width="250" />
+  <img width="1440" height="793" alt="User Dashboard" src="https://github.com/user-attachments/assets/4d9d5cbc-643a-439a-a89a-0cf10325fdc0" />
 </p>
+
+
+
